@@ -8,5 +8,5 @@ Here's a concise and engaging description for your GitHub README:
 
 You can add this to your GitHub README to make your project stand out!
 
-# Screenshot
+# 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/5382bdcc-f180-41a1-9efa-75941fcd3007)
